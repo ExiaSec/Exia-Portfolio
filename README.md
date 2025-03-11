@@ -75,7 +75,7 @@ Here are some of my cybersecurity projects:
 🔹 **Network Analysis & Packet Inspection**:  
 &nbsp;&nbsp;&nbsp;&nbsp; 🛡️ Wireshark, tcpdump, Snort  
 
-🔹 **Security Information & Event Management (SIEM)**:  
+🔹 **Security Information & Event Management (SIEM) & Endpoint Detection & Response (EDR)**:  
 &nbsp;&nbsp;&nbsp;&nbsp; 📊 Splunk, LimaCharlie  
 
 🔹 **Threat Intelligence & Detection**:  
