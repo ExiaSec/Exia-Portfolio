@@ -12,7 +12,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/gregorydandoy/"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/gnaSSi4.png" /></a>
 &nbsp;&nbsp;
-<a href="YOUR_TRYHACKME_URL"><img src="https://i.imgur.com/MuuXCyp.png" alt="TryHackMe Logo" width="40px" >
+<a href="https://tryhackme.com/p/Synyster6415"><img src="https://i.imgur.com/MuuXCyp.png" alt="TryHackMe Logo" width="40px" >
 </a>
 </p>
 
