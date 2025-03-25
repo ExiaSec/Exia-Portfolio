@@ -54,10 +54,10 @@ Here are some of my cybersecurity projects:
   </tr>
   <tr>
     <td align="center">
-      <a href="YOUR_PROJECT_LINK">
-        <img src="https://img.shields.io/badge/-Endpoint Analysis-000?style=for-the-badge&logo=github" alt="Endpoint Analysis"/>
+      <a href="https://github.com/ExiaSec/detection-engineering">
+        <img src="https://img.shields.io/badge/-Detection Engineering-000?style=for-the-badge&logo=github" alt="Detection Engineering"/>
       </a>
-      <p>EDR setup and analysis and YARA Rules.</p>
+      <p>Automated Detection Engineering in Elastic.</p>
     </td>
     <td align="center">
       <a href="YOUR_PROJECT_LINK">
