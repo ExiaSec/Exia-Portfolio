@@ -60,7 +60,7 @@ Here are some of my cybersecurity projects:
       <p>Automated Detection Engineering in Elastic.</p>
     </td>
     <td align="center">
-      <a href="YOUR_PROJECT_LINK">
+      <a href="https://github.com/ExiaSec/evtx_hunting">
         <img src="https://img.shields.io/badge/-Endpoint Analysis-000?style=for-the-badge&logo=github" alt="Endpoint Analysis"/>
       </a>
       <p>EVTX attack sample, Manual hunting using Powershell & Event Viewer.</p>
