@@ -61,9 +61,9 @@ Here are some of my cybersecurity projects:
     </td>
     <td align="center">
       <a href="YOUR_PROJECT_LINK">
-        <img src="https://img.shields.io/badge/-Digital Forensics-000?style=for-the-badge&logo=github" alt="Digital Forensics"/>
+        <img src="https://img.shields.io/badge/-Endpoint Analysis-000?style=for-the-badge&logo=github" alt="Endpoint Analysis"/>
       </a>
-      <p>MEM and Disk capturing using FTK Imager & Volatility.</p>
+      <p>EVTX attack sample, Manual hunting using Powershell & Event Viewer.</p>
     </td>
   </tr>
 </table>
@@ -82,7 +82,7 @@ Here are some of my cybersecurity projects:
 &nbsp;&nbsp;&nbsp;&nbsp; 🧠 YARA Rules, MISP, MITRE ATT&CK  
 
 🔹 **Digital Forensics & Incident Response (DFIR)**:  
-&nbsp;&nbsp;&nbsp;&nbsp; 🔍 FTK Imager, Volatility 
+&nbsp;&nbsp;&nbsp;&nbsp; 🔍 FTK Imager, Volatility, Chainsaw, Event Viewer 
 
 
 ## 📜 Certifications
